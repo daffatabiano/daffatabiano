@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffatabiano" alt="daffatabiano" /></a> </p>
 
-- 🔭 I’m currently working on [Resmansy MERN Stack](https://mernstack-clientside.vercel.app/)
+- 🔭 I’m currently working on [Loan Market Indonesia](https://www.loanmarket.co.id/)
 
 - 🌱 I’m currently learning **Nest JS, Vue JS & Nuxt JS**
 
