@@ -5,13 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daffatabiano" alt="daffatabiano" /></a> </p>
 
-- 🔭 I’m currently working on [Loan Market Indonesia](https://www.loanmarket.co.id/)
-
-- 🌱 I’m currently learning **Nest JS, Vue JS & Nuxt JS**
-
 - 👯 I’m looking to collaborate on **Web developer**
-
-- 🤝 I’m looking for help with **Backend Developer Go**
 
 - 👨‍💻 All of my projects are available at [https://dafportabs.vercel.app/](https://dafportabs.vercel.app/)
 
